@@ -1,13 +1,12 @@
 ## Binomial distribution 이항분포
 
-# 앞면 나올 확률 0.4인 찌그러진 동전을 5회 던질 때, 앞면이 3회 나올 확률
-k <-  3 #앞면이 k
-n <-  5 #시행 횟수 
-p <- 0.4 #확률 
+# 확률
+k <-  3 # 앞면이 3회
+n <-  5 # 시행 횟수 5회
+p <- 0.4 # 앞면이 나올 확률 
 
-dbinom(k, n, p) #이항분포함수 
-
-pbinom(k, n, p) #누적적
+dbinom(k, n, p) # 이항분포함수(앞면이 3회 나올 확률)
+pbinom(k, n, p) # 누적(앞면이 3회 이하로 나올 확률)
 
 # Recursive Cumulative Function 재귀적 누적함수
 cupr <- function(k, n, p) {
