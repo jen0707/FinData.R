@@ -1,6 +1,6 @@
 #import files
 library(readxl)
-ex1 <- read_excel("C:/Users/Downloads/examples.xlsx", sheet = "dist")
+ex1 <- read_excel("examples.xlsx", sheet = "dist")
 ex1
 
 #EXP
