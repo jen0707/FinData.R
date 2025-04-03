@@ -2,7 +2,7 @@
 ### week 3: Number of Outcomes 경우의 수 / Binomial Distribution 이항분포
 ### week 4: Descriptive Statistics 기초 통계량
 
-### Descriptive Statistics
+### Cf) Descriptive Statistics
 #### 기댓값(EXP) = 확률 곱의 합
 #### 편차(DEV) = 실측값 - 기댓값
 #### 분산(VAR) = 편차 제곱의 기댓값
