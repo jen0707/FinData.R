@@ -1,7 +1,7 @@
 Index
 ===============
 #### Week 2: Time Value of Money 화폐의 시간가치
-#### Week 3: Number of Outcomes 경우의 수 / Binomial Distribution 이항 분포
+#### Week 3: Number of Outcomes 경우의 수 / Binomial Distribution 이항 분포 (https://github.com/jen0707/FinData.R/blob/main/BinomialDistribution.R)
 #### Week 4: Descriptive Statistics 기초 통계량
 #### Week 5: Descriptive Statistics by function 기초 통계량 (함수 사용) / 
 
