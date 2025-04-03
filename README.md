@@ -8,4 +8,4 @@ Descriptive Statistics
 * 편차(DEV) = 실측값 - 기댓값
 * 표준편차(DEF) = 분산의 제곱근
 * 공분산(COV) = 두 편차 곱의 기댓값
-* 상관계수 = 공분산 / 두 편차 곱
+* 상관계수(CORR.COEF) = 공분산 / 두 편차 곱
