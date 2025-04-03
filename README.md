@@ -3,7 +3,6 @@
 #### Week 4: Descriptive Statistics 기초 통계량
 
 Descriptive Statistics
-![](Descriptive Statistics.xlsx)
 ----------------------
 * 기댓값(EXP) = 확률 곱의 합
 * 편차(DEV) = 실측값 - 기댓값
