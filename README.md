@@ -3,7 +3,8 @@ Index
 #### Week 2: [Time Value of Money 화폐의 시간가치](https://github.com/jen0707/FinData.R/blob/main/TimeValueofMoney.R)
 #### Week 3: [Number of Outcomes 경우의 수](https://github.com/jen0707/FinData.R/blob/main/Numberofoutcomes.R) / [Binomial Distribution 이항 분포](https://github.com/jen0707/FinData.R/blob/main/BinomialDistribution.R)
 #### Week 4: [Descriptive Statistics 기초 통계량](https://github.com/jen0707/FinData.R/blob/main/DescriptiveStatistics.R)
-#### Week 5: [Descriptive Statistics 기초 통계량 (함수 사용)](https://github.com/jen0707/FinData.R/blob/main/DesciptiveStatistics2(function).R) / 
+#### Week 5: [Descriptive Statistics 기초 통계량 (함수 사용)](https://github.com/jen0707/FinData.R/blob/main/DesciptiveStatistics2(function).R) / [Stock Price Query 주가 자료 불러오기](https://github.com/jen0707/FinData.R/blob/main/StockPriceQuery.R)
+#### Week 7: [상관계수와 포트폴리오 수익률]
 
 [Descriptive Statistics](https://github.com/jen0707/FinData.R/blob/main/DescriptiveStatistics.xlsx)
 ----------------------
