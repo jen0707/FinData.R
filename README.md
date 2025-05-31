@@ -5,8 +5,7 @@ Index
 #### Week 4: [Descriptive Statistics 기초 통계량](https://github.com/jen0707/FinData.R/blob/main/DescriptiveStatistics.R)
 #### Week 5: [Descriptive Statistics 기초 통계량 (함수 사용)](https://github.com/jen0707/FinData.R/blob/main/DesciptiveStatistics2(function).R) / [Stock Price Query 주가 자료 불러오기](https://github.com/jen0707/FinData.R/blob/main/StockPriceQuery.R)
 #### Week 7: [상관계수와 포트폴리오 수익률](https://github.com/jen0707/FinData.R/blob/main/%EC%83%81%EA%B4%80%EA%B3%84%EC%88%98%EC%99%80%ED%8F%AC%ED%8A%B8%ED%8F%B4%EB%A6%AC%EC%98%A4%EC%88%98%EC%9D%B5%EB%A5%A0.R)
-#### Week 9: [상관계수와 포트폴리오 수익률2]
-(https://github.com/jen0707/FinData.R/blob/main/shiny_pfo_corr_(1).R)
+#### Week 9: [상관계수와 포트폴리오 수익률2](https://github.com/jen0707/FinData.R/blob/main/shiny_pfo_corr_(1).R)
 
 [Descriptive Statistics](https://github.com/jen0707/FinData.R/blob/main/DescriptiveStatistics.xlsx)
 ----------------------
